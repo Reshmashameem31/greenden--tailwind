@@ -24,7 +24,7 @@
 
 
 ## 🔗 Live Website
-( https://reshmashameem31.github.io/greenden--tailwind/)
+(https://reshmashameem31.github.io/greenden--tailwind/)
 
 ---
 
